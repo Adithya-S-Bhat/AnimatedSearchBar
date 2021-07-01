@@ -1,4 +1,4 @@
-# challenge
+# Custom Animated Search Bar
 
 A new Flutter application.
 
